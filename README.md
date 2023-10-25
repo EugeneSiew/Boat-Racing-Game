@@ -1,5 +1,5 @@
 # Boat-Racing-Game
-A console-based 2 player boat racing game created using Java for for the subject Object-Oriented Programming Fundamentals.
+A console-based 2 player boat racing game created using Java for for the subject Object-Oriented Programming Fundamentals. The 2 players roll a dice in a round-robin fashion until 1 of them reaches the finish line. During the game, the players may encounter currents that push their boat forward or traps that moves their boat backward.
 
 # Game Interface
 ## Main Menu
